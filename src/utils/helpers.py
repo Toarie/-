@@ -6,3 +6,4 @@ def sort_vacancies(vacancies):
 
 def get_top_vacancies(vacancies, top_n):
     return vacancies[:top_n]
+

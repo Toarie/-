@@ -5,6 +5,7 @@ description = ""
 authors = ["Ulyana Kuznetsova <rey.tsvetkov777@gmail.com>"]
 readme = "README.md"
 
+
 [tool.poetry.dependencies]
 python = "^3.11"
 
